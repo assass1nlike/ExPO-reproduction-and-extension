@@ -16,7 +16,7 @@ Our work includes:
 - Preliminary **multimodal extension** of ExPO applied to the **RLHF-V** dataset to mitigate hallucination.
 
 Code and results are available here:  
- [https://github.com/assassinlike/ExPO-reproduction-and-extension](https://github.com/assassinlike/ExPO-reproduction-and-extension)
+ [https://github.com/assass1nlike/ExPO-reproduction-and-extension](https://github.com/assass1nlike/ExPO-reproduction-and-extension)
 
 ---
 
